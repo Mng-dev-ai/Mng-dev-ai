@@ -45,5 +45,8 @@
     <tr>
       <td><a href="https://github.com/honeybadger-io/honeybadger-python/issues?q=author%3AMng-dev-ai"><b>honeybadger-python</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/pyscript/pyscript/pulls?q=author%3AMng-dev-ai"><b>pyscript</b></a></td>
+    </tr>
   </tbody>
 </table>
